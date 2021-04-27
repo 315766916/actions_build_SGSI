@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.0.3.0.QFGCNXM/miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip",
+  "rom_url": "https://ip4176545455.mobgslb.tbcache.com/Firmware/Flyme/meizu18_Pro/9.0.1.1/cn/20210425155924/573cc645/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=2530f2df7daa28bd108a544593e5e7e538afa703cae10369&ali_redirect_ex_tmining_ts=1619524320&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100",
   "rom_name": "update.zip",
-  "pack_sgsi": "SGSI.zip",
+  "pack_sgsi": "SGSI9.zip",
   "make_type": "AB",
   "rom_type": "emmc",
   "light_fix": true,
